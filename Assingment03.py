@@ -1,4 +1,6 @@
-from nltk import ngrams
+#Name : Rahul Sunil Kolase
+#Roll No: 34
+#Assignment : 03
 
 from nltk.util import ngrams
 #unigram model
